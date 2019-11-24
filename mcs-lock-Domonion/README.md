@@ -77,8 +77,3 @@ locked.value = true // выставить значение в коде
 * [`CorrectnessTest`](test/CorrectnessTest.kt) проверяет правильность работы блокировки в соответсвии с FCFS и
   корректность использования методов part/unpark.
 * [`StressTest`](test/StressTest.kt) проверяет взаимную блокировку и прогресс под нагрузкой. 
-
-## Формат сдачи
-
-Выполняйте задание в этом репозитории. Инструкции по сдаче заданий находятся в 
-[этом документе](https://docs.google.com/document/d/1GQ0OI_OBkj4kyOvhgRXfacbTI9huF4XJDMOct0Lh5og). 
